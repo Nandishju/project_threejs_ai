@@ -17,3 +17,6 @@ also I learnt how to:
 - Download the resulting t-shirt model image
 - Ensure responsiveness across all devices and improve your site's performance
 
+Author:
+Nandish J U
+
